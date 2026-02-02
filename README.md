@@ -59,3 +59,8 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+
+
+## Loom Video
+
+Loom Video Link: https://www.loom.com/share/05d2c8af667843f5bab5d5ead73333a1
